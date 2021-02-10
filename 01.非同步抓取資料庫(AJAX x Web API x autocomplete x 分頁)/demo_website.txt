@@ -1,2 +1,2 @@
-【.Net MVC】非同步抓取資料庫(AJAX x Web API x autocomplete x 分頁)
+【ASP.Net MVC】非同步抓取資料庫(AJAX x Web API x autocomplete x 分頁)
 https://youtu.be/su3p9Gtr5fw
