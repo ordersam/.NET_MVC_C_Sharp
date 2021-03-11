@@ -4,6 +4,8 @@
   * Demo Website(國外免費架站，demo速度有差請見諒)：http://www.baby.somee.com/
     * 可用001@gmail.com到023@gmail.com登入，密碼均為12345
     * 注意 免費API額度 可能會用完，手機驗證註冊、圖片更新如有問題可再連繫我
+  * 簡報檔下載：https://drive.google.com/file/d/1dxm_krAxzHR9G7qi4AgX-0vBNfIwUpop/view?usp=sharing
+  * 礙於團隊成果，暫不提供原始碼請見諒，有疑義可連繫我(ordersams@gmail.com)
 ### 01.非同步抓取資料庫
   * Content
     * AJAX x Web API
