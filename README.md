@@ -24,4 +24,5 @@
     * 應用API
       * .NET MVC實作Web以AJAX呼叫API
       * Windows Forms實作API簡易呼叫系統
+    * 採RWD設計，以手機體驗較佳
   * Demo：https://youtu.be/PQ0AnWMrVmQ
