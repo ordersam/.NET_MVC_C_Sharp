@@ -1,0 +1,24 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Mapping Space="C-S" xmlns="http://schemas.microsoft.com/ado/2009/11/mapping/cs">
+  <EntityContainerMapping StorageEntityContainer="elevatorModelStoreContainer" CdmEntityContainer="elevatorEntities">
+    <EntitySetMapping Name="baby">
+      <EntityTypeMapping TypeName="elevatorModel.baby">
+        <MappingFragment StoreEntitySet="baby">
+          <ScalarProperty Name="cute" ColumnName="cute" />
+          <ScalarProperty Name="havecat" ColumnName="havecat" />
+          <ScalarProperty Name="birth" ColumnName="birth" />
+          <ScalarProperty Name="name" ColumnName="name" />
+          <ScalarProperty Name="id" ColumnName="id" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+    <EntitySetMapping Name="product">
+      <EntityTypeMapping TypeName="elevatorModel.product">
+        <MappingFragment StoreEntitySet="product">
+          <ScalarProperty Name="fName" ColumnName="fName" />
+          <ScalarProperty Name="fId" ColumnName="fId" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+  </EntityContainerMapping>
+</Mapping>

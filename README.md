@@ -26,3 +26,8 @@
       * Windows Forms實作API簡易呼叫系統
     * 採RWD設計，以手機體驗較佳
   * Demo：https://youtu.be/PQ0AnWMrVmQ
+### 05.MVC使用MySQL進行CRUD(EF + ADO)
+  * Content
+	* 使用本地端MySQL
+	* 實作 Entity Framework
+	* 實作ADO.NET CRUD
