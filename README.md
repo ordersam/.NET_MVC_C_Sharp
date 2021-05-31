@@ -28,6 +28,7 @@
   * Demo：https://youtu.be/PQ0AnWMrVmQ
 ### 05.MVC使用MySQL進行CRUD(EF + ADO)
   * Content
-	* 使用本地端MySQL
-	* 實作 Entity Framework
-	* 實作ADO.NET CRUD
+    * 使用本地端 MySQL
+    * 實作 Entity Framework
+    * 實作 ADO.NET CRUD
+      * 參數化 x (連線型Command + 離線型 adapter)
